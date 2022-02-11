@@ -13,4 +13,4 @@ https://roy4th.github.io/Horiseon/
 ## Contribution
 Made with ❤️ by [Roy Velasquez]
 
-### ©️
+### ©️2019 Horiseon Social Solution Services, Inc.
